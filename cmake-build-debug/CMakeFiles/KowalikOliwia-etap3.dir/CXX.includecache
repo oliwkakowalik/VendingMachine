@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/BLIK.cpp
+BLIK.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/BLIK.h
+time.h
+-
+cstdlib
+-
+string
+-
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/BLIK.h
+Payment.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Payment.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Card.cpp
+Card.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Card.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Card.h
+Payment.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Payment.h
+string
+-
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Cash.cpp
+Cash.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Cash.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Cash.h
+Payment.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Payment.h
+string
+-
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Container.h
+iostream
+-
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Drink.cpp
+cstring
+-
+Drink.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Drink.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Drink.h
+iostream
+-
+Money.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Money.h
+string
+-
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Errors.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Interface.cpp
+Interface.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Interface.h
+Errors.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Errors.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Interface.h
+Machine.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Machine.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Machine.cpp
+Machine.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Machine.h
+iostream
+-
+Errors.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Errors.h
+Cash.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Cash.h
+Card.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Card.h
+BLIK.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/BLIK.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Machine.h
+vector
+-
+Drink.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Drink.h
+Payment.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Payment.h
+Container.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Container.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Money.cpp
+Money.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Money.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Money.h
+iostream
+-
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Payment.h
+Money.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Money.h
+
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/main.cpp
+iostream
+-
+Interface.h
+C:/Users/oliwi/Desktop/studia/III semestr/obiektowe/KowalikOliwia-etap3/KowalikOliwia-etap3/Interface.h
+
